@@ -1,9 +1,9 @@
 
 
-function UserData() {
+function UserData({users}) {
   return (
     <div>
-      
+   
     </div>
   )
 }
